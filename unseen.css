@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(118, 8, 8);
+    background-color: rgb(118, 8, 59);
 }
 
 h2{
     font-family: 'IBM Plex Mono', monospace;
-    
+    color:black;
 }
