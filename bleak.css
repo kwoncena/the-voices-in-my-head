@@ -1,16 +1,18 @@
 body { 
     background-color: #073123c8; 
-    font-family: 'Cedarville Cursive', cursive;
+    
 }
 
 
 h1{
+    font-family: 'Cedarville Cursive', cursive;
     color:  #25254584;
     font-stretch: 50%;
     
 }
 
 h2{
+    font-family: 'Cedarville Cursive', cursive;
     color: #ecf79680;
     font-stretch: 100%;
     
