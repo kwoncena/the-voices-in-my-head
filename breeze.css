@@ -1,0 +1,11 @@
+body{
+    font-family: 'Berkshire Swash', serif;
+    background-color: rgb(211, 0, 123);
+}
+
+h1{
+    font-size: 500%;
+    font-stretch:ultra-expanded;
+    color: rgb(255, 115, 0)
+}
+
